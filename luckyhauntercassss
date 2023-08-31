@@ -1,11 +1,12 @@
 {
-    "VklVikl": false,
-    "Lang": ["Russian"],
+    "VklVikl": true,
+    "Lang": ["Russian", "Spanish"],
     "Timing": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent", "Santiago", "Easter", "Punta_Arenas", "Tijuana", "Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun"],
     "Linksssss": 
     [ 
-          { "Lang":"Russian", "Link": ""}
+        { "Lang":"Russian", "Link": "https://redigames.info/?s=35&ref=wp_w164086p143_LH&encoded_url=cmVnaXN0ZXI="},
+        { "Lang":"Spanish", "Link": "https://1wwmmx.top/casino/list?open=register"}
     ]
  }
